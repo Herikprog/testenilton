@@ -1,0 +1,19 @@
+{
+  "name": "nilton-barber",
+  "version": "1.0.0",
+  "description": "Website premium de barbearia desenvolvido em HTML, CSS e JavaScript puro.",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cookie": "^1.0.2",
+    "express": "^4.21.2",
+    "googleapis": "^166.0.0"
+  }
+}
